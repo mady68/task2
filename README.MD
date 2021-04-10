@@ -1,0 +1,1 @@
+Constructs the Frame with the word inside.
